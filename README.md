@@ -30,6 +30,7 @@
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/NitinRawat813/LeetCode_/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
@@ -224,6 +225,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NitinRawat813/LeetCode_/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Queue
