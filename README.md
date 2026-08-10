@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/NitinRawat813/LeetCode_/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
@@ -62,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -175,6 +177,7 @@
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -204,6 +207,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinRawat813/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
 |  |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Sliding Window
 |  |
@@ -277,11 +282,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Combinatorics
 |  |
@@ -313,4 +320,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NitinRawat813/LeetCode_/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
