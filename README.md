@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinRawat813/LeetCode_/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/NitinRawat813/LeetCode_/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/NitinRawat813/LeetCode_/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/NitinRawat813/LeetCode_/tree/master/0049-group-anagrams) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NitinRawat813/LeetCode_/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/NitinRawat813/LeetCode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
@@ -159,6 +161,7 @@
 | [0018-4sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NitinRawat813/LeetCode_/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
@@ -169,6 +172,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/NitinRawat813/LeetCode_/tree/master/0739-daily-temperatures) |
 ## Sorting
@@ -192,6 +196,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
