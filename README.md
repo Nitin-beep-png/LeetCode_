@@ -41,6 +41,7 @@
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/NitinRawat813/LeetCode_/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
@@ -70,6 +71,7 @@
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
@@ -252,6 +254,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NitinRawat813/LeetCode_/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Queue
