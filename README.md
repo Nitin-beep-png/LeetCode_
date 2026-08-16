@@ -48,6 +48,7 @@
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NitinRawat813/LeetCode_/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -79,6 +80,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
@@ -129,6 +131,7 @@
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/NitinRawat813/LeetCode_/tree/master/1492-the-kth-factor-of-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -250,6 +253,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
@@ -267,6 +271,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Queue
 |  |
