@@ -41,6 +41,7 @@
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/NitinRawat813/LeetCode_/tree/master/0739-daily-temperatures) |
@@ -72,6 +73,7 @@
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -123,6 +125,7 @@
 | [0415-add-strings](https://github.com/NitinRawat813/LeetCode_/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/NitinRawat813/LeetCode_/tree/master/1492-the-kth-factor-of-n) |
@@ -256,6 +259,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NitinRawat813/LeetCode_/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -349,4 +353,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NitinRawat813/LeetCode_/tree/master/0056-merge-intervals) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
