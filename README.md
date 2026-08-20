@@ -47,6 +47,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/NitinRawat813/LeetCode_/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -184,6 +185,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinRawat813/LeetCode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Monotonic Stack
 |  |
@@ -205,6 +207,7 @@
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -247,6 +250,7 @@
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
+| [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Counting
 |  |
@@ -375,4 +379,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
