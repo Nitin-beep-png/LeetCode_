@@ -46,6 +46,7 @@
 | [0525-contiguous-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/NitinRawat813/LeetCode_/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
@@ -185,6 +186,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinRawat813/LeetCode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0344-reverse-string) |
+| [0845-longest-mountain-in-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Monotonic Stack
@@ -222,6 +224,7 @@
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
+| [0845-longest-mountain-in-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/3693-climbing-stairs-ii) |
@@ -270,6 +273,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0845-longest-mountain-in-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
