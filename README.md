@@ -163,6 +163,7 @@
 | [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/NitinRawat813/LeetCode_/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinRawat813/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/NitinRawat813/LeetCode_/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/NitinRawat813/LeetCode_/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
