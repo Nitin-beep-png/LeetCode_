@@ -134,6 +134,7 @@
 | [0224-basic-calculator](https://github.com/NitinRawat813/LeetCode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/NitinRawat813/LeetCode_/tree/master/0326-power-of-three) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/NitinRawat813/LeetCode_/tree/master/0415-add-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/1920-build-array-from-permutation) |
@@ -364,6 +366,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/NitinRawat813/LeetCode_/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
 ## Counting Sort
