@@ -2,8 +2,8 @@ class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
         int group= 0;
+        int leftrow = 0;
         sort(reservedSeats.begin(),reservedSeats.end());
-        group = 2 * n ;
         for(int i = 0 ; i < reservedSeats.size() ; i++){
             bool group1 = true;
             bool group2 = true;
@@ -25,7 +25,7 @@ public:
             }
             j++;
             }
-            group -= 2;
+            leftrow++;
             if(group1 && group3){
                 group += 2;
             }else if(group1 || group2 || group3){
@@ -33,7 +33,7 @@ public:
             }
             i = j - 1;
         }
-
+        group += 2*(n - leftrow);
         return group;
     }
 };
