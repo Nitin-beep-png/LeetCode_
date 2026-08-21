@@ -133,6 +133,7 @@
 | [0227-basic-calculator-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/NitinRawat813/LeetCode_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NitinRawat813/LeetCode_/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/NitinRawat813/LeetCode_/tree/master/0415-add-strings) |
@@ -369,6 +370,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 ## Bitmask
@@ -419,4 +421,20 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
