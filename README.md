@@ -75,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/NitinRawat813/LeetCode_/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NitinRawat813/LeetCode_/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NitinRawat813/LeetCode_/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/NitinRawat813/LeetCode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
@@ -189,6 +191,7 @@
 | [0125-valid-palindrome](https://github.com/NitinRawat813/LeetCode_/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinRawat813/LeetCode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0845-longest-mountain-in-array) |
@@ -412,4 +415,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
