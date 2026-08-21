@@ -53,6 +53,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/NitinRawat813/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NitinRawat813/LeetCode_/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -88,6 +89,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/NitinRawat813/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
@@ -177,6 +179,7 @@
 | [0342-power-of-four](https://github.com/NitinRawat813/LeetCode_/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/NitinRawat813/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NitinRawat813/LeetCode_/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/NitinRawat813/LeetCode_/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
@@ -271,6 +274,7 @@
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1386-cinema-seat-allocation](https://github.com/NitinRawat813/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 ## Counting
 |  |
 | ------- |
