@@ -52,6 +52,7 @@
 | [0904-fruit-into-baskets](https://github.com/NitinRawat813/LeetCode_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/NitinRawat813/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/NitinRawat813/LeetCode_/tree/master/1386-cinema-seat-allocation) |
@@ -258,6 +259,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/NitinRawat813/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [0219-contains-duplicate-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/NitinRawat813/LeetCode_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/NitinRawat813/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
@@ -310,6 +313,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/NitinRawat813/LeetCode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
