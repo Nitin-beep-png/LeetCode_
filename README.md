@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/NitinRawat813/LeetCode_/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NitinRawat813/LeetCode_/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +198,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NitinRawat813/LeetCode_/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
@@ -221,6 +223,7 @@
 | [0018-4sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/NitinRawat813/LeetCode_/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NitinRawat813/LeetCode_/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
@@ -410,6 +413,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NitinRawat813/LeetCode_/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -454,4 +458,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0292-nim-game) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
