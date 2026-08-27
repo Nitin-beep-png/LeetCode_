@@ -22,6 +22,7 @@
 | [0046-permutations](https://github.com/NitinRawat813/LeetCode_/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/NitinRawat813/LeetCode_/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NitinRawat813/LeetCode_/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
@@ -327,6 +328,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/NitinRawat813/LeetCode_/tree/master/0415-add-strings) |
@@ -462,4 +464,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
