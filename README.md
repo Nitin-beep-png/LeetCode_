@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NitinRawat813/LeetCode_/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NitinRawat813/LeetCode_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NitinRawat813/LeetCode_/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NitinRawat813/LeetCode_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/NitinRawat813/LeetCode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NitinRawat813/LeetCode_/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NitinRawat813/LeetCode_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/NitinRawat813/LeetCode_/tree/master/0739-daily-temperatures) |
 ## Sorting
@@ -468,4 +471,8 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0059-spiral-matrix-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NitinRawat813/LeetCode_/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
