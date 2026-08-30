@@ -69,6 +69,7 @@
 | [1929-concatenation-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NitinRawat813/LeetCode_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3693-climbing-stairs-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/3693-climbing-stairs-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/NitinRawat813/LeetCode_/tree/master/3925-concatenate-array-with-reverse) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -289,6 +290,7 @@
 | [0881-boats-to-save-people](https://github.com/NitinRawat813/LeetCode_/tree/master/0881-boats-to-save-people) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/NitinRawat813/LeetCode_/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NitinRawat813/LeetCode_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting
 |  |
 | ------- |
