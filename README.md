@@ -156,6 +156,7 @@
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/NitinRawat813/LeetCode_/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
