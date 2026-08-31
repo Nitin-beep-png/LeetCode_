@@ -1,7 +1,11 @@
 
 class Solution {
 public:
-    int smallestRepunitDivByK(int k) {        
+    int smallestRepunitDivByK(int k) {     
+        if(k % 2 == 0 || k % 5 == 0) 
+        {
+            return -1;
+        }   
         int length = 0;
         int remainder = 0;
         for(int i = 0 ; i < k ; i++){
