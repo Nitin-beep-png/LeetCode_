@@ -97,6 +97,7 @@
 | [0904-fruit-into-baskets](https://github.com/NitinRawat813/LeetCode_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/NitinRawat813/LeetCode_/tree/master/1386-cinema-seat-allocation) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -156,6 +157,7 @@
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/NitinRawat813/LeetCode_/tree/master/1492-the-kth-factor-of-n) |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0523-continuous-subarray-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/NitinRawat813/LeetCode_/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Timsort
 |  |
 | ------- |
