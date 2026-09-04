@@ -72,6 +72,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NitinRawat813/LeetCode_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3693-climbing-stairs-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/3693-climbing-stairs-ii) |
+| [3903-smallest-stable-index-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/NitinRawat813/LeetCode_/tree/master/3925-concatenate-array-with-reverse) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
@@ -334,6 +335,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/NitinRawat813/LeetCode_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2485-find-the-pivot-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3903-smallest-stable-index-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Queue
 |  |
